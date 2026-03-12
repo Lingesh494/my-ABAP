@@ -8,6 +8,7 @@ FUNCTION ZFM_FIRST.
 *"  EXCEPTIONS
 *"      ZERO
 *"----------------------------------------------------------------------
+*This is the function module for the factorial program (File name in GitHub : z_factorial.prog.abap)
 DATA lv_num(2) TYPE N.
 P_FACT = 1.
 lv_num = P_NUM.

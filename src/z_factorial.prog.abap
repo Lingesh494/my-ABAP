@@ -3,7 +3,7 @@
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-*This is the program for factorial
+*This is the program for factorial. This program uses my fucntion module that contains the factorial logic (file name in github: zfg_first.fugr.zfm_first.abap)
 REPORT z_factorial.
 DATA lv_output TYPE numc4.
 
